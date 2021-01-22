@@ -1,2 +1,2 @@
-# js
-Js projects
+# Getting Start with Git 
+My first git commit
